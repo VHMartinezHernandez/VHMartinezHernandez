@@ -1,5 +1,5 @@
-# ¡Bienvenido a mi repositorio GitHub! 👋
-¡Bienvenido a mi perfil de GitHub! Aquí encontrarás información sobre mí y mis intereses en el mundo de la programación y la tecnología. Permíteme presentarme:
+# ¡Bienvenido a mi perfil GitHub! 👋
+Aquí encontrarás información sobre mí y mis intereses en el mundo de la programación y la tecnología. Permíteme presentarme:
 
 ## Acerca de mi 👦💻
 
