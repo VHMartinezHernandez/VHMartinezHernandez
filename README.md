@@ -44,4 +44,7 @@ He tenido la oportunidad de participar en un bootcamp con la empresa "Soy Henry"
 
 Adicional soy Ingeniero en Computacion graduado en el "Instituto Politecnico Nacional" 📚 donde pude obtener las bases necesarias para desempeñarme como desarrollador"
 
-¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología, no dudes en contactarme. Estoy emocionado por seguir aprendiendo. ¡Hagamos que el mundo sea un lugar mejor a través del código! 💻
+📫 Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología, no dudes en contactarme a vhmhernandez8@gmail.com
+
+
+### ¡Gracias por visitar mi perfil. Estoy emocionado por seguir aprendiendo. Hagamos que el mundo sea un lugar mejor a través del código! 💻
