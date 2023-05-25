@@ -3,7 +3,7 @@ Aquí encontrarás información sobre mí y mis intereses en el mundo de la prog
 
 ## Acerca de mi 👦💻
 
-¡Hola! Mi nombre es Victor y soy de Mexico. Soy amante del Futbol ⚽. Ademas la tecnologia es una de mis pasiones y la programacion me ha brindado la oportunidad de explorar nuevas ideas y expandir mis conocimientos y habilidades a travez del estudio constante. 
+¡Hola! Mi nombre es Victor y soy de Mexico. Soy amante del Futbol ⚽. Ademas, la tecnologia es una de mis pasiones, la programacion me ha brindado la oportunidad de explorar nuevas ideas y expandir mis conocimientos y habilidades a travez del estudio constante. 
 
 ## Tecnologías que utilizo 🖥️
 En mi día a día, trabajo con varias tecnologías, lo que me permite desarrollar proyectos sólidos y escalables. Estas son algunas de las herramientas que forman parte de mi stack actual:
@@ -36,7 +36,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br>
 <br>
 
-Sin embargo, siempre estoy en constante aprendizaje, explorando nuevas tecnologías y mejorando mis habilidades. Creo firmemente en la importancia de mantenerse actualizado/a en un campo tan dinámico como el desarrollo web.
+Sin embargo, siempre estoy en constante aprendizaje, explorando nuevas tecnologías y mejorando mis habilidades. Creo firmemente en la importancia de mantenerse actualizado en un campo tan dinámico como el desarrollo web.
 
 ## Mis estudios 📚🎓
 
