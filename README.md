@@ -1,11 +1,11 @@
-# ¡Hola! 👋
-¡Bienvenido/a a mi perfil de GitHub! Aquí encontrarás información sobre mí y mis intereses en el mundo de la programación y la tecnología. Permíteme presentarme:
+# ¡Bienvenido a mi repositorio GitHub! 👋
+¡Bienvenido a mi perfil de GitHub! Aquí encontrarás información sobre mí y mis intereses en el mundo de la programación y la tecnología. Permíteme presentarme:
 
-## Sobre mí 👦💻
+## Acerca de mi 👦💻
 
 ¡Hola! Mi nombre es Victor y soy de Mexico. Soy amante del Futbol ⚽. Ademas la tecnologia es una de mis pasiones y la programacion me ha brindado la oportunidad de explorar nuevas ideas y expandir mis conocimientos y habilidades a travez del estudio constante. 
 
-## Tecnologías que utilizo actualmente 🖥️
+## Tecnologías que utilizo 🖥️
 En mi día a día, trabajo con varias tecnologías, lo que me permite desarrollar proyectos sólidos y escalables. Estas son algunas de las herramientas que forman parte de mi stack actual:
 
 
@@ -47,4 +47,4 @@ Adicional soy Ingeniero en Computacion graduado en el "Instituto Politecnico Nac
 📫 Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología, no dudes en contactarme a vhmhernandez8@gmail.com
 
 
-### ¡Gracias por visitar mi perfil. Estoy emocionado por seguir aprendiendo. Hagamos que el mundo sea un lugar mejor a través del código! 💻
+### ¡Gracias por visitar mi perfil. Estoy emocionado por seguir aprendiendo! 💻
