@@ -1,7 +1,7 @@
-¡Hola! 👋
+### H1 ¡Hola! 👋
 ¡Bienvenido/a a mi perfil de GitHub! Aquí encontrarás información sobre mí y mis intereses en el mundo de la programación y la tecnología. Permíteme presentarme:
 
-Sobre mí 👦🎸💻
+### H1 Sobre mí 👦🎸💻
 ¡Hola! Mi nombre es Victor y soy de Mexico. Soy amante del Futbol⚽. Ademas la tecnologia es una de mis pasiones y la programacion me ha brindado la oportunidad de explorar nuevas ideas y expandir mis conocimientos y habilidades a travez del estudio constante. 
 
 Tecnologías que utilizo actualmente 🖥️
