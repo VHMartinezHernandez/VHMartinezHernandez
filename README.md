@@ -1,16 +1,19 @@
-### Hi there 👋
+¡Hola! 👋
+¡Bienvenido/a a mi perfil de GitHub! Aquí encontrarás información sobre mí y mis intereses en el mundo de la programación y la tecnología. Permíteme presentarme:
 
-<!--
-**VHMartinezHernandez/VHMartinezHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mí 👦🎸💻
+¡Hola! Mi nombre es Victor y soy de Mexico. Soy amante del Futbol⚽. Ademas la tecnologia es una de mis pasiones y la programacion me ha brindado la oportunidad de explorar nuevas ideas y expandir mis conocimientos y habilidades a travez del estudio constante. 
 
-Here are some ideas to get you started:
+Tecnologías que utilizo actualmente 🖥️
+En mi día a día, trabajo con varias tecnologías, lo que me permite desarrollar proyectos sólidos y escalables. Estas son algunas de las herramientas que forman parte de mi stack actual:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+JavaScript 🌐
+HTML 
+CSS 🎨
+Redux ⚛️
+React ⚛️
+PostgreSQL 🐘
+
+
+Sin embargo, siempre estoy en constante aprendizaje, explorando nuevas tecnologías y mejorando mis habilidades. Creo firmemente en la importancia de mantenerse actualizado/a en un campo tan dinámico como el desarrollo web.
