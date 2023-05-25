@@ -8,7 +8,9 @@
 ## Tecnologías que utilizo actualmente 🖥️
 En mi día a día, trabajo con varias tecnologías, lo que me permite desarrollar proyectos sólidos y escalables. Estas son algunas de las herramientas que forman parte de mi stack actual:
 
-<!-- <hr style="height: 1px; background-color: transparent; border: none; margin: 1em 0;"> -->
+
+<img align="left" alt="javascript" style="width: 26px; height: 26px;"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="HTML5" style="width: 26px; height: 26px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
