@@ -1,4 +1,4 @@
-# ¡Hola! 
+# ¡Hola! 👋
 ¡Bienvenido/a a mi perfil de GitHub! Aquí encontrarás información sobre mí y mis intereses en el mundo de la programación y la tecnología. Permíteme presentarme:
 
 ## Sobre mí 👦💻
@@ -40,6 +40,6 @@ Sin embargo, siempre estoy en constante aprendizaje, explorando nuevas tecnolog�
 
 He tenido la oportunidad de participar en un bootcamp con la empresa "Soy Henry" 🚀, donde adquirí conocimientos y habilidades fundamentales como Full Stack Web Developer. 
 
-Adicional soy Ingeniero en Computacion graduado en el "Instituto Politecnico Nacional" 📚 donde pude obtener las bases necesarias para desempeñarme como programador"
+Adicional soy Ingeniero en Computacion graduado en el "Instituto Politecnico Nacional" 📚 donde pude obtener las bases necesarias para desempeñarme como desarrollador"
 
 ¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología, no dudes en contactarme. Estoy emocionado por seguir aprendiendo. ¡Hagamos que el mundo sea un lugar mejor a través del código! 💻
