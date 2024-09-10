@@ -5,32 +5,51 @@ Aquí encontrarás información sobre mí y mis intereses en el mundo de la prog
 
 ¡Hola! Mi nombre es Victor y soy de Mexico. Soy amante del Futbol ⚽. Ademas, la tecnologia es una de mis pasiones, la programacion me ha brindado la oportunidad de explorar nuevas ideas y expandir mis conocimientos y habilidades a travez del estudio constante. 
 
+
+
+## Tecnologías de Desarrollo de Software 🖥️
+En el ámbito del desarrollo de software, utilizo diversas herramientas que me permiten optimizar mi flujo de trabajo, gestionar proyectos de manera eficiente y garantizar la calidad del código:
+
+<img align="left" alt="Git" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+
+<img align="left" alt="GitHub" style="width: 40px; height: 40px;" src="https://img.icons8.com/nolan/64/github.png" />
+
+<img align="left" alt="VSCode" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+
+<img align="left" alt="Visual Studio" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
+
+<br>
+
 ## Tecnologías que utilizo 🖥️
 En mi día a día, trabajo con varias tecnologías, lo que me permite desarrollar proyectos sólidos y escalables. Estas son algunas de las herramientas que forman parte de mi stack actual:
 
+<img align="left" alt="C#" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 
-<img align="left" alt="javascript" style="width: 26px; height: 26px;"
+<img align="left" alt="javascript" style="width: 40px; height: 40px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="HTML5" style="width: 26px; height: 26px;"
+<img align="left" alt="HTML5" style="width: 40px; height: 40px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="css" style="width: 26px; height: 26px;"
+<img align="left" alt="css" style="width: 40px; height: 40px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="react" style="width: 26px; height: 26px;"
+<img align="left" alt="react" style="width: 40px; height: 40px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img align="left" alt="redux" style="width: 26px; height: 26px;"
+<img align="left" alt="redux" style="width: 40px; height: 40px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
-<img align="left" alt="nodejs" style="width: 26px; height: 26px;"
+<img align="left" alt="nodejs" style="width: 40px; height: 40px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="postgresql" style="width: 26px; height: 26px;"
+<img align="left" alt="postgresql" style="width: 40px; height: 40px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 
-<img align="left" alt="postgresql" style="width: 26px; height: 26px;"
+<img align="left" alt="MySQL" style="width: 40px; height: 40px;" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+
+<img align="left" alt="postgresql" style="width: 40px; height: 40px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
 <br>
