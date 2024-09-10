@@ -28,11 +28,10 @@ En mi día a día, trabajo con varias tecnologías, lo que me permite desarrolla
 <img align="left" alt="javascript" style="width: 40px; height: 40px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="HTML5" style="width: 40px; height: 40px;"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML" style="width: 40px; height: 40px;" src="https://img.icons8.com/color/48/html-5--v1.png" />
 
 <img align="left" alt="css" style="width: 40px; height: 40px;"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+src="https://img.icons8.com/color/48/000000/css3.png" />
 
 <img align="left" alt="react" style="width: 40px; height: 40px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -59,9 +58,11 @@ Sin embargo, siempre estoy en constante aprendizaje, explorando nuevas tecnolog�
 
 ## Mis estudios 📚🎓
 
+Soy Ingeniero en Computacion graduado en el "Instituto Politecnico Nacional" 📚 donde pude obtener las bases necesarias para desempeñarme como desarrollador"
+
 He tenido la oportunidad de participar en un bootcamp con la empresa "Soy Henry" 🚀, donde adquirí conocimientos y habilidades fundamentales como Full Stack Web Developer. 
 
-Adicional soy Ingeniero en Computacion graduado en el "Instituto Politecnico Nacional" 📚 donde pude obtener las bases necesarias para desempeñarme como desarrollador"
+
 
 📫 Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología, no dudes en contactarme a vhmhernandez8@gmail.com
 
