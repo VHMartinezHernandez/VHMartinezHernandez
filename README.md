@@ -25,6 +25,9 @@ En mi día a día, trabajo con varias tecnologías, lo que me permite desarrolla
 
 <img align="left" alt="C#" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 
+<img align="left" alt="Java" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+
+
 <img align="left" alt="javascript" style="width: 40px; height: 40px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
