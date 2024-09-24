@@ -18,6 +18,9 @@ En el ámbito del desarrollo de software, utilizo diversas herramientas que me p
 
 <img align="left" alt="Visual Studio" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
 
+<img align="left" alt="IntelliJ IDEA" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
+
+
 <br>
 
 ## Tecnologías que utilizo 🖥️
