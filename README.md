@@ -21,7 +21,6 @@ En el ámbito del desarrollo de software, utilizo diversas herramientas que me p
 
 <img align="left" alt="Git" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 
-
 <br>
 
 ## Tecnologías que utilizo 🖥️
@@ -51,9 +50,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Spring Boot" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 
 <img align="left" alt="Bootstrap" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-
-
-
 
 <img align="left" alt="nodejs" style="width: 40px; height: 40px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
