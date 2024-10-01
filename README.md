@@ -10,15 +10,16 @@ Aquí encontrarás información sobre mí y mis intereses en el mundo de la prog
 ## Tecnologías de Desarrollo de Software 🖥️
 En el ámbito del desarrollo de software, utilizo diversas herramientas que me permiten optimizar mi flujo de trabajo, gestionar proyectos de manera eficiente y garantizar la calidad del código:
 
-<img align="left" alt="Git" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-
-<img align="left" alt="GitHub" style="width: 40px; height: 40px;" src="https://img.icons8.com/nolan/64/github.png" />
 
 <img align="left" alt="VSCode" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 
 <img align="left" alt="Visual Studio" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
 
 <img align="left" alt="IntelliJ IDEA" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
+
+<img align="left" alt="GitHub" style="width: 40px; height: 40px;" src="https://img.icons8.com/nolan/64/github.png" />
+
+<img align="left" alt="Git" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 
 
 <br>
