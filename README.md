@@ -67,6 +67,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 <img align="left" alt="postgresql" style="width: 40px; height: 40px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
+<img align="left" alt=".NET" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" />
+
+
 
 
 <br>
@@ -74,9 +77,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 Sin embargo, siempre estoy en constante aprendizaje, explorando nuevas tecnologías y mejorando mis habilidades. Creo firmemente en la importancia de mantenerse actualizado en un campo tan dinámico como el desarrollo web.
 
-## Mis estudios 📚🎓
+## Mis estudios 🎓
 
-Soy Ingeniero en Computacion graduado en el "Instituto Politecnico Nacional" 📚 donde pude obtener las bases necesarias para desempeñarme como desarrollador"
+Soy Ingeniero en Computacion graduado en el "Instituto Politecnico Nacional"  donde pude obtener las bases necesarias para desempeñarme como desarrollador
 
 He tenido la oportunidad de participar en un bootcamp con la empresa "Soy Henry" 🚀, donde adquirí conocimientos y habilidades fundamentales como Full Stack Web Developer. 
 
