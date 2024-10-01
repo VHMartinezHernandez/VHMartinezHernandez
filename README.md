@@ -34,6 +34,9 @@ En mi día a día, trabajo con varias tecnologías, lo que me permite desarrolla
 <img align="left" alt="javascript" style="width: 40px; height: 40px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img align="left" alt=".NET Core" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
+
+
 <img align="left" alt="HTML" style="width: 40px; height: 40px;" src="https://img.icons8.com/color/48/html-5--v1.png" />
 
 <img align="left" alt="css" style="width: 40px; height: 40px;"
@@ -62,17 +65,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 
 <img align="left" alt="postgresql" style="width: 40px; height: 40px;"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-
-<img align="left" alt=".NET Core" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
-
-<img align="left" alt=".NET Core" style="width: 40px; height: 40px;" src="https://cdn-icons-png.flaticon.com/512/919/919842.png" />
-
-
-
-
-
-
-
 
 <br>
 <br>
