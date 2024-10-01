@@ -65,6 +65,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt=".NET Core" style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
 
+<img align="left" alt=".NET Core" style="width: 40px; height: 40px;" src="https://img.icons8.com/color/48/000000/net-core.png" />
+
+
 
 
 <br>
